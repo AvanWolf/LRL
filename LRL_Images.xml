@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TranscendenceModule>
+
+<!--
+#########################
+### Legacy Overwrites ###
+#########################
+-->
+
+	<Image UNID="&rsWorlds1;"		bitmap="Resources\Worlds1.jpg"			bitmask="Resources\Worlds1Mask.bmp"  backColor="0x00000000"/>
+
+	<Image UNID="&rsStations1;"		bitmap="Resources\Stations1.jpg"		bitmask="Resources\Stations1Mask.bmp"  />
+
+
+	<Image UNID="&rsSmallShips1;"	bitmap="Resources\SmallShips1.jpg"	bitmask="Resources\SmallShips1Mask.bmp" />
+	<Image UNID="&rsMediumShips1;"	bitmap="Resources\MediumShips1.jpg"	bitmask="Resources\MediumShips1Mask.bmp" />
+	<Image UNID="&rsMediumShips2;"	bitmap="Resources\MediumShips2.jpg"	bitmask="Resources\MediumShips2Mask.bmp" />
+	<Image UNID="&rsLargeShips1;"	bitmap="Resources\LargeShips1.jpg"	bitmask="Resources\LargeShips1Mask.bmp" />
+
+<!--
+#########################
+### Legacy  Additions ###
+#########################
+-->
+
+	<Image UNID="&LRL_rsEI100P7;"		bitmap="Resources\EI100_Orig.jpg"		bitmask="Resources\EI100_OrigMask.bmp"  />
+
+	<Image UNID="&LRL_rsRedAsteroid;"	bitmap="Resources\7redstation.jpg"		bitmask="Resources\7redstation_mask.bmp"  />
+
+
+</TranscendenceModule>

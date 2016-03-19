@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TranscendenceLibrary
+	[
+	<!ENTITY LRL_unidLRL16						"0xA0030004">
+
+	<!-- Ship images -->
+
+	<!ENTITY LRL_rsEI100P7						"0xA0031000">
+
+	<!-- Station images -->
+
+	<!ENTITY LRL_rsRedAsteroid					"0xA0031001">
+
+	<!-- Sounds -->
+
+	<!-- MISC -->
+
+]>
+
+<TranscendenceLibrary
+	name="Transcendence Legacy Resources Library API16"
+	credits="Maintainer: Wolfy: Content created by: George Moromisato"
+	UNID="&LRL_unidLRL16;"
+	release="1.1"
+	apiVersion="16"
+	autoIncludeForCompatibility="13">
+
+<!-- MODULES -->
+
+	<Modules>
+		<Module filename="LRL_Images.xml"/>
+		<Module filename="LRL_Sounds.xml"/>
+		<Module filename="LRL_Other.xml"/>
+	</Modules>
+
+</TranscendenceLibrary>
